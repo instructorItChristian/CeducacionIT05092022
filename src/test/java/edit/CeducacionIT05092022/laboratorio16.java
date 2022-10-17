@@ -33,7 +33,7 @@ public void abrirPagina() {
 @Test
 public void test() {
 	
-	System.out.println("prueba sin el chomeDriver.exe");
+	System.out.println("prueba sin el chomeDriver.exe!!!");
 	
 }
 
